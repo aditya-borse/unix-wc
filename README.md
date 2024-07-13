@@ -1,0 +1,1 @@
+## This projects implements the unix wc command line tool in c.
